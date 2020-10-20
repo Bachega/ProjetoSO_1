@@ -1,0 +1,16 @@
+PID [8491] EXECUTING	Time remaining: 2000 milliseconds [2.0 seconds]
+PID [8491] FINISHED	Response time: 2000 milliseconds [2.0 seconds]
+PID [2571] EXECUTING	Time remaining: 3000 milliseconds [3.0 seconds]
+PID [2571] FINISHED	Response time: 5000 milliseconds [5.0 seconds]
+PID [9554] EXECUTING	Time remaining: 4000 milliseconds [4.0 seconds]
+PID [9554] FINISHED	Response time: 9000 milliseconds [9.0 seconds]
+PID [1094] EXECUTING	Time remaining: 5000 milliseconds [5.0 seconds]
+PID [1094] FINISHED	Response time: 14000 milliseconds [14.0 seconds]
+PID [5520] EXECUTING	Time remaining: 6000 milliseconds [6.0 seconds]
+PID [5520] FINISHED	Response time: 20000 milliseconds [20.0 seconds]
+PID [3710] EXECUTING	Time remaining: 2000 milliseconds [2.0 seconds]
+PID [3710] FINISHED	Response time: 22000 milliseconds [22.0 seconds]
+
+All processes finished
+Average response time: 12000 milliseconds [12.0 seconds]
+Number of context switches: 6
